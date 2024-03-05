@@ -1,0 +1,4 @@
+docker run --name kea4  \
+           --volume /home/kazu/dhcp3/kea-docker/kea-dhcp4:/etc/kea  \
+           --net ipvlan0  \
+           docker.cloudsmith.io/isc/docker/kea-dhcp4:2.5.5
