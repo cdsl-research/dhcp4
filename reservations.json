@@ -1,0 +1,16 @@
+[
+    {
+        "hw-address": "00:0c:29:1a:fc:cb",
+        "ip-address": "192.168.137.12",
+        "option-data": [
+            {
+                "name": "host-name",
+                "code": 12,
+                "space": "dhcp4",
+                "csv-format": true,
+                "data": "hogehoge"
+            }
+        ]
+    }
+]
+
